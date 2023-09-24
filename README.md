@@ -2,6 +2,7 @@
 guess the word till you win or die
 
 ## GAME OVER
+```
  =====  GAME OVER ======
 
     +------|
@@ -11,18 +12,19 @@ guess the word till you win or die
     |     / \
     |
  ===!==============
-
- ## WINNG
+```
+## WINNG
+ ```
   == greate work ==
  ============ WOW YOU DID IT =============
  WORD: scrambles
-
- ## how to start
-    - run the code
-    ```bash
-    python main.py
-    ```
-    - start guessing the word
+```
+## how to start
+   - run the code
+     ```bash
+      python main.py
+     ```
+   - start guessing the word
 
 
 ## Coding
